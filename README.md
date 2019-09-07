@@ -1,0 +1,4 @@
+# CanniJS
+Canni Discord Bot
+
+.
