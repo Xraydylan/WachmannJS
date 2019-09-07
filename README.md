@@ -1,0 +1,4 @@
+# WachmannJS
+Wachmann Discord Bot
+
+.
