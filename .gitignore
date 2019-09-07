@@ -7,3 +7,4 @@
 config/application/ids.json
 modules/Python/scripts/test_script.py
 /node_modules/
+.idea
