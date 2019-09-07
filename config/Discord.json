@@ -1,0 +1,7 @@
+{
+    "token": "ENV",
+    "blockUserTimeout": 300000,
+    "cooldownTimeout": 60000,
+    "cooldownMessageDefault": "Hey %s! You already did that and I have guarding duties to do.\nPlease let me rest for a moment!",
+    "cooldownMessageDev": "Hey %s! You already did that and I have guarding duties to do.\nPlease let me rest for a moment!"
+}
