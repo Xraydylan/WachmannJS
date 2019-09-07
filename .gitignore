@@ -1,0 +1,9 @@
+
+.idea/wachmann.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/jsLibraryMappings.xml
+config/application/ids.json
+modules/Python/scripts/test_script.py
+/node_modules/
