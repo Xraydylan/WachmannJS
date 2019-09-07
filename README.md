@@ -1,4 +1,4 @@
-# CanniJS
-Canni Discord Bot
+# WachmannJS
+Wachmann Discord Bot
 
 .
