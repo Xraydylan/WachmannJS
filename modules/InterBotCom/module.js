@@ -37,6 +37,11 @@ module.exports = class InterBotCom extends Module {
                     msg.channel.send(Tools.parseReply(this.config.ans_boop_guard, [msg.author]));
                 }.bind(this), 2000);
             }
+            if (Tools.msg_contains(msg, "baps")) {
+                setTimeout(function () {
+                    msg.channel.send(Tools.parseReply(this.config.bapGuardAnswer, [msg.author]));
+                }.bind(this), 2000);
+            }
         }
     }
 
