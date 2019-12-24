@@ -42,6 +42,11 @@ module.exports = class InterBotCom extends Module {
                     msg.channel.send(Tools.parseReply(this.config.bapGuardAnswer, [msg.author]));
                 }.bind(this), 2000);
             }
+            if (Tools.msg_contains(msg, "Merry Christmas")) {
+                setTimeout(function () {
+                    msg.channel.send(Tools.parseReply(this.config.christmasGuardAnswer, [msg.author]));
+                }.bind(this), 3000);
+            }
         }
     }
 
