@@ -1,5 +1,6 @@
 {
   "ans_boop_guard": "%s Hey, don't boop me.\nI have important work to do.",
   "bapGuardAnswer": "Oof! %s What the hay!?",
-  "christmasGuardAnswer": "I'm still on duty. But Merry Christmas to all of you as well and enjoy the festive days!"
+  "christmasGuardAnswer": "I'm still on duty. But Merry Christmas to all of you as well and enjoy the festive days!",
+  "silvesterGuardAnswer": "Happy New Year! The only day that I'm off duty."
 }
